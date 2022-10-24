@@ -1,3 +1,7 @@
+# Preivew
+
+![](https://github.com/web3dev0/airbnb-searchbar-clone/blob/main/public/preview.gif?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
